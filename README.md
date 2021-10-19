@@ -1,4 +1,5 @@
-# React Firebase Chat
+# React Firebase Chat Room
+
 A simple full-stack chat with React and Firebase.
 
 # Getting Started with Create React App
