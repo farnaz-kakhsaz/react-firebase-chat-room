@@ -1,6 +1,6 @@
 # React Firebase Chat Room
 
-A simple full-stack chat with React and Firebase.
+A simple full-stack chat with React and Firebase (Cloud Firestore).
 
 ## Installation
 
