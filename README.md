@@ -1,5 +1,7 @@
 # React Firebase Chat Room
 
+![3d-sphere](https://user-images.githubusercontent.com/37678729/138594759-ff3b2c9e-35de-41ce-94c6-81c56d23a753.gif)
+
 A simple full-stack chat with React and Firebase (Cloud Firestore).
 
 ## Installation
